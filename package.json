@@ -1,0 +1,17 @@
+{
+  "name": "yoona",
+  "version": "0.0.0",
+  "private": true,
+  "author": "aelaa <aelaau@gmail.com>",
+  "description": "My own Im Yoona",
+  "dependencies": {
+    "hubot": "^2.18.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-scripts": "^2.16.2",
+    "hubot-shell": "^1.0.2",
+    "hubot-slack": "^3.4.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}

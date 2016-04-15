@@ -1,0 +1,6 @@
+#!/bin/sh
+
+set -e
+
+npm install
+exec node_modules/.bin/hubot --name "yoona" -l "윤아" "$@"
